@@ -1,92 +1,60 @@
-## 🚀 About Me
+## About Me
 
-- 🤖 **AI/ML Enthusiast**: Focused on machine learning, deep learning, and generative AI applications
-- 💻 **Full-Stack Developer**: Building scalable applications with Python, Java, and web technologies
-- 📚 **Continuous Learner**: Always exploring new technologies and methodologies in AI and software development
-- 🌍 **Open Source Contributor**: Passionate about sharing knowledge and collaborating with the community
+AI/ML specialist and full-stack developer with expertise in machine learning, deep learning, and generative AI applications. Experienced in building scalable solutions and contributing to open-source projects.
 
-## 💼 Technical Skills
+## Technical Skills
 
-**Languages:**
-- Python
-- JavaScript/CSS
+**Languages:** Python, JavaScript, CSS, Java
 
-**Specializations:**
+**Core Competencies:**
 - Machine Learning & Deep Learning
 - Generative AI (LLMs, Image Generation, RAG)
-- Object-Oriented Programming (OOP)
-- Web Development
+- Full-Stack Web Development
+- Object-Oriented Programming
 - Data Analysis & Visualization
 - Knowledge Representation & AI Reasoning
 
-**Tools & Libraries:**
-- TensorFlow / PyTorch
-- Scikit-learn
-- Streamlit
-- Jupyter Notebook
-- Git & GitHub
+**Tools & Libraries:** TensorFlow, PyTorch, Scikit-learn, Streamlit, Jupyter Notebook, Git
 
-## 📊 Featured Projects
+## Featured Projects
 
 ### Machine Learning & AI
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [Native-Fine-Tune-Llama](https://github.com/Zweihandler/Native-Fine-Tune-Llama) | Fine-tuning Llama 3.1-8B model with SFT on Indonesian language dataset | PyTorch, Jupyter |
-| [StudioAI-Web-for-Image-Generation](https://github.com/Zweihandler/StudioAI-Web-for-Image-Generation) | Generative AI web app for image generation using Stable Diffusion with Streamlit | Streamlit, Jupyter |
-| [Flower-Image-Classification](https://github.com/Zweihandler/Flower-Image-Classification) | Flower image classification using MobilenetV2 | TensorFlow, Jupyter |
-| [Image-Generation-With-Stable-diffusion-Model](https://github.com/Zweihandler/Image-Generation-With-Stable-diffusion-Model) | Image generation using Stable Diffusion model | Jupyter |
-| [Twitter-Sentiment-Analysist](https://github.com/Zweihandler/Twitter-Sentiment-Analysist) | Sentiment analysis on Twitter data | Jupyter |
-| [Simple-SLM-RAG](https://github.com/Zweihandler/Simple-SLM-RAG) | Simple Small Language Model with Retrieval-Augmented Generation | Jupyter |
-| [anime-recommendation](https://github.com/Zweihandler/anime-recommendation) | Anime recommendation system using machine learning | Jupyter |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Native-Fine-Tune-Llama](https://github.com/Zweihandler/Native-Fine-Tune-Llama) | Fine-tuning Llama 3.1-8B with SFT on Indonesian dataset | PyTorch |
+| [StudioAI-Web-for-Image-Generation](https://github.com/Zweihandler/StudioAI-Web-for-Image-Generation) | Generative AI web app for image generation | Streamlit |
+| [Flower-Image-Classification](https://github.com/Zweihandler/Flower-Image-Classification) | Image classification using MobileNetV2 | TensorFlow |
+| [Simple-SLM-RAG](https://github.com/Zweihandler/Simple-SLM-RAG) | Small Language Model with RAG implementation | Jupyter |
+| [anime-recommendation](https://github.com/Zweihandler/anime-recommendation) | Recommendation system using machine learning | Jupyter |
 
 ### Backend & Data Processing
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
+| Project | Description | Tech |
+|---------|-------------|------|
 | [BackendML](https://github.com/Zweihandler/BackendML) | Backend machine learning service | Python |
-| [it-cert-automation-practice](https://github.com/Zweihandler/it-cert-automation-practice) | Google IT Automation with Python Professional Certificate practice files | Python |
+| [it-cert-automation-practice](https://github.com/Zweihandler/it-cert-automation-practice) | IT automation practice and tools | Python |
 
-### Web Development
+### Software Development
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [Music-Web](https://github.com/Zweihandler/Music-Web) | Music web application | CSS, HTML, JavaScript |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Projec-Akhir-PBO](https://github.com/Zweihandler/Projec-Akhir-PBO) | Object-Oriented Programming final project | Java |
+| [BFS-DFS](https://github.com/Zweihandler/BFS-DFS) | Graph traversal algorithms | Python |
+| [Simple-forward-Chaining](https://github.com/Zweihandler/Simple-forward-Chaining) | Forward chaining algorithm implementation | Python |
+| [Music-Web](https://github.com/Zweihandler/Music-Web) | Music web application | HTML, CSS, JavaScript |
 
-### Object-Oriented Programming & Algorithms
+## Current Focus
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [Projec-Akhir-PBO](https://github.com/Zweihandler/Projec-Akhir-PBO) | Final Object-Oriented Programming project | Java |
-| [Project-PBO-1](https://github.com/Zweihandler/Project-PBO-1) | Object-Oriented Programming assignment 1 | Java |
-| [BFS-DFS](https://github.com/Zweihandler/BFS-DFS) | Graph traversal algorithms (TSP path) | Jupyter |
-| [Simple-forward-Chaining](https://github.com/Zweihandler/Simple-forward-Chaining) | Forward chaining algorithm implementation | Jupyter |
+- Building and fine-tuning Large Language Models
+- Developing generative AI applications
+- Exploring advanced AI architectures and techniques
+- Creating practical AI solutions with real-world applications
 
-### Knowledge Representation & AI
+## Let's Connect
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [Representasi-Pengetahuan](https://github.com/Zweihandler/Representasi-Pengetahuan) | Knowledge representation assignment | Jupyter |
-| [Silsilah_representasi-pengetahuan](https://github.com/Zweihandler/Silsilah_representasi-pengetahuan) | Family genealogy with knowledge representation | Python |
-
-## 🎯 Current Focus
-
-- 🤖 Building and fine-tuning Large Language Models (LLMs)
-- 🎨 Generative AI applications (image generation, text generation)
-- 🧠 Exploring advanced AI techniques and architectures
-- 💡 Developing practical AI solutions with real-world applications
-
-
-## 🤝 Let's Connect!
-
-- 💬 Feel free to reach out for collaborations or discussions
-- 🔗 Explore my repositories to see my work in action
-- 📧 Open to opportunities in ML, AI, and software development
-
-## 📝 License
-
-My repositories are open source and available under various licenses. Please check individual repositories for specific license information.
+Feel free to reach out for collaborations or discussions. I'm open to opportunities in ML, AI, and software development.
 
 ---
 
-⭐ If you find my work interesting, feel free to star my repositories! Your support means a lot! 🙏
+If you find my work interesting, please consider starring my repositories. Thank you!
