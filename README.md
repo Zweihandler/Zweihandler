@@ -1,17 +1,14 @@
 ## About Me
 
-AI/ML specialist and full-stack developer with expertise in machine learning, deep learning, and generative AI applications. Experienced in building scalable solutions and contributing to open-source projects.
+AI/ML specialist with expertise in machine learning, deep learning, and generative AI applications. Experienced in building scalable solutions and contributing to open-source projects.
 
 ## Technical Skills
 
-**Languages:** Python, JavaScript, CSS, Java
+**Languages:** Python
 
 **Core Competencies:**
 - Machine Learning & Deep Learning
 - Generative AI (LLMs, Image Generation, RAG)
-- Full-Stack Web Development
-- Object-Oriented Programming
-- Data Analysis & Visualization
 - Knowledge Representation & AI Reasoning
 
 **Tools & Libraries:** TensorFlow, PyTorch, Scikit-learn, Streamlit, Jupyter Notebook, Git
@@ -54,7 +51,3 @@ AI/ML specialist and full-stack developer with expertise in machine learning, de
 ## Let's Connect
 
 Feel free to reach out for collaborations or discussions. I'm open to opportunities in ML, AI, and software development.
-
----
-
-If you find my work interesting, please consider starring my repositories. Thank you!
