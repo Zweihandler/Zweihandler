@@ -1,7 +1,3 @@
-# Hi there, I'm Zweihandler 👋
-
-Welcome to my GitHub profile! I'm a passionate developer and AI/ML enthusiast working on innovative projects at the intersection of machine learning, web development, and automation.
-
 ## 🚀 About Me
 
 - 🤖 **AI/ML Enthusiast**: Focused on machine learning, deep learning, and generative AI applications
@@ -13,9 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer and AI/ML enthusiast wo
 
 **Languages:**
 - Python
-- Java
 - JavaScript/CSS
-- SQL
 
 **Specializations:**
 - Machine Learning & Deep Learning
@@ -82,11 +76,6 @@ Welcome to my GitHub profile! I'm a passionate developer and AI/ML enthusiast wo
 - 🧠 Exploring advanced AI techniques and architectures
 - 💡 Developing practical AI solutions with real-world applications
 
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zweihandler&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zweihandler&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect!
 
