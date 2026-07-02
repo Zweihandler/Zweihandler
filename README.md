@@ -1,6 +1,6 @@
 # Hi everyone! 👋
 
-My name is Zweihandler.
+My name is Rifki.
 
 I'm an **AI/ML Enthusiast** with experince in machine learning, deep learning, and generative AI applications. I'm passionate about building scalable solutions and contributing to open-source projects.
 
