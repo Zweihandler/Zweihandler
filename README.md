@@ -16,7 +16,7 @@ I'm an **AI/ML Enthusiast** with experince in machine learning, deep learning, a
 </a>
 </p>
 
-### My GitHub Statistics
+## My GitHub Statistics
 - 📊 **Total Repositories**: 16
 
 ## Current Focus
