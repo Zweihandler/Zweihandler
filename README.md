@@ -1,53 +1,37 @@
-## About Me
+# Hi everyone! 👋
 
-AI/ML specialist with expertise in machine learning, deep learning, and generative AI applications. Experienced in building scalable solutions and contributing to open-source projects.
+My name is Zweihandler.
 
-## Technical Skills
+I'm an **AI/ML Enthusiast** with experince in machine learning, deep learning, and generative AI applications. I'm passionate about building scalable solutions and contributing to open-source projects.
 
-**Languages:** Python
+## Tech Stack
 
-**Core Competencies:**
-- Machine Learning & Deep Learning
-- Generative AI (LLMs, Image Generation, RAG)
-- Knowledge Representation & AI Reasoning
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /> <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white" />
 
-**Tools & Libraries:** TensorFlow, PyTorch, Scikit-learn, Streamlit, Jupyter Notebook, Git
+## GitHub Statistics
 
-## Featured Projects
+### My Programming Languages
+```
+Jupyter Notebook ███████████████░░░░░░░░░░░ 53%
+Python          ██████░░░░░░░░░░░░░░░░░░░░ 20%
+Java            ████░░░░░░░░░░░░░░░░░░░░░░ 13%
+CSS             ███░░░░░░░░░░░░░░░░░░░░░░░  7%
+Other           ░░░░░░░░░░░░░░░░░░░░░░░░░░  7%
+```
 
-### Machine Learning & AI
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Native-Fine-Tune-Llama](https://github.com/Zweihandler/Native-Fine-Tune-Llama) | Fine-tuning Llama 3.1-8B with SFT on Indonesian dataset | PyTorch |
-| [StudioAI-Web-for-Image-Generation](https://github.com/Zweihandler/StudioAI-Web-for-Image-Generation) | Generative AI web app for image generation | Streamlit |
-| [Flower-Image-Classification](https://github.com/Zweihandler/Flower-Image-Classification) | Image classification using MobileNetV2 | TensorFlow |
-| [Simple-SLM-RAG](https://github.com/Zweihandler/Simple-SLM-RAG) | Small Language Model with RAG implementation | Jupyter |
-| [anime-recommendation](https://github.com/Zweihandler/anime-recommendation) | Recommendation system using machine learning | Jupyter |
-
-### Backend & Data Processing
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [BackendML](https://github.com/Zweihandler/BackendML) | Backend machine learning service | Python |
-| [it-cert-automation-practice](https://github.com/Zweihandler/it-cert-automation-practice) | IT automation practice and tools | Python |
-
-### Software Development
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Projec-Akhir-PBO](https://github.com/Zweihandler/Projec-Akhir-PBO) | Object-Oriented Programming final project | Java |
-| [BFS-DFS](https://github.com/Zweihandler/BFS-DFS) | Graph traversal algorithms | Python |
-| [Simple-forward-Chaining](https://github.com/Zweihandler/Simple-forward-Chaining) | Forward chaining algorithm implementation | Python |
-| [Music-Web](https://github.com/Zweihandler/Music-Web) | Music web application | HTML, CSS, JavaScript |
+### My GitHub Statistics
+- 📊 **Total Repositories**: 16
 
 ## Current Focus
 
-- Building and fine-tuning Large Language Models
-- Developing generative AI applications
-- Exploring advanced AI architectures and techniques
-- Creating practical AI solutions with real-world applications
+- 🤖 Building and fine-tuning Large Language Models
+- ✨ Developing generative AI applications
+- 🧠 Exploring advanced AI architectures and techniques
+- 🚀 Creating practical AI solutions with real-world applications
 
-## Let's Connect
+## You Can Find Me at
 
-Feel free to reach out for collaborations or discussions. I'm open to opportunities in ML, AI, and software development.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rifki-zaidan-a03356275)
+---
+
+*Feel free to reach out for collaborations or discussions. I'm open to opportunities in ML, AI, and software development!*
