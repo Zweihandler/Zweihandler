@@ -14,8 +14,6 @@ I'm an **AI/ML Enthusiast** with experince in machine learning, deep learning, a
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zweihandler&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
-## My GitHub Statistics
-- 📊 **Total Repositories**: 16
 
 ## Current Focus
 
