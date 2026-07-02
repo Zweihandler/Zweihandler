@@ -6,12 +6,12 @@ I'm an **AI/ML Enthusiast** with experince in machine learning, deep learning, a
 
 ## Tech Stack
 
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /> <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" /> <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
 
 ## GitHub Statistics
 <p align="left">
 <a href="https://github.com/Zweihandler">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zweihandler&layout=compact&layout=compact&theme=algolia"/>
+  <img height="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zweihandler&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
 
