@@ -11,11 +11,9 @@ I'm an **AI/ML Enthusiast** with experince in machine learning, deep learning, a
 ## GitHub Statistics
 <p align="left">
 <a href="https://github.com/Zweihandler">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zweihandler&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zweihandler&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
-
 ## My GitHub Statistics
 - 📊 **Total Repositories**: 16
 
